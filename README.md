@@ -1,4 +1,4 @@
-# Etsy Clone E-commerce Web Application
+
 
 ## Table of Contents
 - [Project Description](#project-description)
