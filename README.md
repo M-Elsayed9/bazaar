@@ -1,4 +1,4 @@
-# Bazaar E-commerce Web Application
+# Etsy Clone E-commerce Web Application
 
 ## Table of Contents
 - [Project Description](#project-description)
